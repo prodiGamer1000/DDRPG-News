@@ -243,7 +243,6 @@ footer{
     color: #ddd;
     cursor: pointer;
     display: inline-flex;
-
     font-size: 16px;
     font-weight: 600;
     justify-content: center;
@@ -263,7 +262,7 @@ footer{
   
   .button-5:hover,
   .button-5:focus {
-    background-color: #fb8332;
+    background-color: #205c8d;
     box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
   }
   
@@ -272,7 +271,7 @@ footer{
   }
   
   .button-5:active {
-    background-color: #c85000;
+    background-color: #256aa2;
     box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
     transform: translateY(0);
   }
