@@ -152,7 +152,7 @@ svg:hover{
     opacity: 0.8;
 }
 .noticia_left{
-    gap: 10px;
+    gap: 30px;
     border-bottom: 1px solid #000;
     width: 100%;
     display: flex;
@@ -233,7 +233,6 @@ footer{
 
 /* ELEMENTOS PRONTOS */
 .button-5 {
-    margin-top: 15px;
     align-items: center;
     background-clip: padding-box;
     background-color: #256aa2;
