@@ -80,3 +80,6 @@ footer{
     box-shadow: 0 0 10px #000;
     font-size: 12px;
 }
+img{    
+    border-radius: 5%;
+}
