@@ -233,6 +233,7 @@ footer{
 
 /* ELEMENTOS PRONTOS */
 .button-5 {
+    margin-top: 15px;
     align-items: center;
     background-clip: padding-box;
     background-color: #256aa2;
