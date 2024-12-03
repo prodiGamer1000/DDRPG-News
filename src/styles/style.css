@@ -5,6 +5,9 @@
     font-size: 16px;
     transition: ease all 0.2s;
 }
+nav{
+    display: flex;
+}
 a{
     color: #fff;
     text-decoration: none;
