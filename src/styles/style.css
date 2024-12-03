@@ -341,6 +341,7 @@ footer{
         justify-content: center;
         align-items: center;
         width: 94%;
+        padding: 0 3%;
     }
     .carrossel_fotos{
         width: 100%;
