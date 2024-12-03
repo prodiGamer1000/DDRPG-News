@@ -317,6 +317,7 @@ footer{
         padding: 0;
         margin: 0;
         gap: 0;
+        margin-bottom: 30px;
     }
     .carrossel svg{
         display: none;
@@ -334,7 +335,10 @@ footer{
         padding: 0;
         margin: 0;
         margin-bottom: 5px;
+    }
+    .left_area{
         width: 90%;
+        flex-direction: column;
     }
     .carrossel_fotos{
         width: 100%;
