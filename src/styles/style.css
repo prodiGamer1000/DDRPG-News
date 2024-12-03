@@ -326,6 +326,7 @@ footer{
         align-items: center;
         padding: 20px 10px;
         padding-top: 40px;
+        overflow-x: hidden;
     }
     .noticias{
         width: 100%;
