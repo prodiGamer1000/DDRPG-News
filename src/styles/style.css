@@ -337,6 +337,8 @@ footer{
         margin-bottom: 5px;
     }
     .left_area{
+        justify-content: center;
+        align-items: center;
         width: 90%;
     }
     .carrossel_fotos{
