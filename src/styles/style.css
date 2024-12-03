@@ -135,6 +135,7 @@ svg:hover{
     display: flex;
     width: 300px;
     gap: 7px;
+    align-items: center;
 }
 .noticia_right img{
     width: 150px !important;
@@ -155,6 +156,7 @@ svg:hover{
     opacity: 0.8;
 }
 .noticia_left{
+    align-items: center;
     gap: 30px;
     border-bottom: 1px solid #000;
     width: 100%;
@@ -310,7 +312,7 @@ footer{
         display: none;
     }
     .carrossel{
-        width: 100%;
+        width: calc(100vw - 20px);
         padding: 0;
         margin: 0;
         gap: 0;
@@ -320,13 +322,18 @@ footer{
     }
     main{
         padding: 20px 10px;
+        padding-top: 40px;
     }
     .noticias{
         width: 100%;
-        flex-direction: column;
+        flex-direction: column-reverse;
         padding: 0;
     }
-
+    .left_area h2{
+        padding: 0;
+        margin: 0;
+        margin-bottom: 5px;
+    }
 
 
 }
