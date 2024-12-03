@@ -23,7 +23,6 @@ header{
     box-shadow: 0 0 10px #000;
     color: #fff;
     background-color: #256aa2;
-    padding: 0 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -300,12 +299,22 @@ footer{
 /* CELULAR */
 @media (max-width:450vw) and (max-height:900px){
 
+    header{
+        justify-content: center;
+    }
     nav{
         display: none;
+    }
+    .carrossel{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        gap: 0;
     }
     .carrossel svg{
         display: none;
     }
-    
+
+
 
 }
