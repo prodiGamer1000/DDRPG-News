@@ -323,6 +323,7 @@ footer{
         display: none;
     }
     main{
+        align-items: center;
         padding: 20px 10px;
         padding-top: 40px;
     }
