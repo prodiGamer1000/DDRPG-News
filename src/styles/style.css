@@ -318,6 +318,14 @@ footer{
     .carrossel svg{
         display: none;
     }
+    main{
+        padding: 20px 10px;
+    }
+    .noticias{
+        width: 100%;
+        flex-direction: column;
+        padding: 0;
+    }
 
 
 
