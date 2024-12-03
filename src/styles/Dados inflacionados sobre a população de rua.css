@@ -102,4 +102,10 @@ img{
         padding-top: 40px;
         overflow-x: hidden;
     }
+    img{
+        height: 205px;
+        width: 340px;
+        gap: 0;
+        margin-bottom: 30px;
+    }
 }
