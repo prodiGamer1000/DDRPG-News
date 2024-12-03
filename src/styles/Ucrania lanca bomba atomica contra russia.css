@@ -85,3 +85,22 @@ img{
     border-radius: 5%;
     margin-bottom: 60px;
 }
+
+
+
+
+
+@media (max-width:450px) and (max-height:900px){
+    header{
+        justify-content: center;
+    }
+    nav{
+        display: none;
+    }
+    main{
+        align-items: center;
+        padding: 20px 10px;
+        padding-top: 40px;
+        overflow-x: hidden;
+    }
+}
